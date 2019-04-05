@@ -1,5 +1,5 @@
 # Test-repo
-nothing much here
+Nothing much here.
 
 This new branch has nothing much either 
-seriously though, I'm not kidding.
+Seriously though, I'm not kidding.
